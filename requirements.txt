@@ -1,0 +1,5 @@
+streamlit==1.26.0
+spleeter==2.3.2
+tensorflow==2.14.0
+pydub==0.25.1
+#tensorflow is used by spleeter 
