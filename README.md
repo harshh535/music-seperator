@@ -9,7 +9,12 @@ ensure the following are installed (python and installer pip ):
 1)Python (3.8 or later)
 2)pip
 -------------------------
+
+
+
 Dependencies insatllation:-
+
+
 Install all the requirements specified in requirements.txt by using command:-
          pip install -r requirements.txt
 ---------------------------------------------
