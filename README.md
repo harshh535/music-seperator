@@ -2,12 +2,14 @@
 This project is a Music Stem Splitter tool designed to separate audio tracks into individual stems (e.g., vocals, drums, bass, others) using an open-source machine learning model, Spleeter. It features a user-friendly web interface built with Streamlit, allowing users to upload audio files, process them, and download the separated stems.
 
 ---------------------------------------------------------------------------
-Prerequisites
-:-ensure the following are installed (python and installer pip ):
+Prerequisites:-
+ensure the following are installed (python and installer pip ):
+
+
 1)Python (3.8 or later)
 2)pip
 -------------------------
-Dependecies insatllation:-
+Dependencies insatllation:-
 Install all the requirements specified in requirements.txt by using command:-
          pip install -r requirements.txt
 ---------------------------------------------
